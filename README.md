@@ -12,3 +12,9 @@ Features
   -   send email update?
   -   if mobile app, send push notifications to user
   -   if chrome extension, send push notifications to user?
+
+Tools:
+Frontend: React
+Backend: Javascript and Django
+Database: MongoDB
+Container: Azure

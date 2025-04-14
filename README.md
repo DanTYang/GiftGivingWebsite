@@ -15,7 +15,17 @@ Features
   -   if chrome extension, send push notifications to user?
 
 Tools:
-Frontend: React
-Backend: Javascript and Django
-Database: MongoDB
-Container: Azure
+- Frontend: React
+- Backend: Javascript and Django
+- Database: MongoDB
+- Container: Azure
+
+Development Stages
+- Backend code
+  - Setup endpoints (CRUD endpoints)
+- Integrate Database
+- Frontend code
+- Authentication/Login Server
+- Add More features
+- Host on Container
+- ???

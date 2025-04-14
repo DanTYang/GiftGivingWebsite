@@ -4,8 +4,9 @@ Features
   -   Track People's Birthdays
   -   Track people's interests
 - Track potential gifts
-  -   Use ChatGPT/Deepseek API to find list of gifts
+  -   Use ChatGPT/Deepseek API to find list of gifts/generate list of celebration ideas/gifts based on target interests
   -   Insert own possible gifts
+  -   Log personal context details to help narrow ideas
   -   Use Amazon/facebook marketplace/google/price drop check to find price of gifts and track them
 - Notify the user
   -   text user updates through Twilio?
